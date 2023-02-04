@@ -70,6 +70,27 @@ public class CardTrick {
         // Then loop through the cards in the array to see if there's a match.
         
         // If the guess is successful, invoke the printInfo() method below.
+        private static void printInfo() {
+    
+        System.out.println("Congratulations, you guessed right!");
+        System.out.println();
+        
+        System.out.println("My name is Kojo");
+        System.out.println();
+        
+        System.out.println("My career ambitions: Are to become a Full time Software Developer/ Engineer");
+        System.out.println("Im very active on LinkedIn");
+        	
+
+        System.out.println("My hobbies Include:");
+        System.out.println("-- Music Production");
+        System.out.println("-- Cooking");
+        System.out.println("-- Flims");
+        System.out.println("-- Art");
+        System.out.println("Fashion");
+        
+    
+    }
         
     
 }
